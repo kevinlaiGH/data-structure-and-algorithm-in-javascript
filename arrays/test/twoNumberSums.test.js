@@ -1,6 +1,6 @@
 // const assert = require('chai').assert;
 
-const program = require('../program/twoNumberSum');
+const program = require('./test/twoNumberSum');
 const chai = require('chai');
 
 

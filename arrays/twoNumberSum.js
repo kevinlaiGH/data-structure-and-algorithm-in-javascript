@@ -33,8 +33,4 @@ function twoNumberSum(array, targetSum) {
 	return []
 }
 
-
-
-
-
 exports.twoNumberSum = twoNumberSum;
